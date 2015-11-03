@@ -1,0 +1,61 @@
+h1 {
+	width: 100%;
+	margin: 0 auto;
+	height: 0 auto;
+	text-align: center;
+	text-decoration: bold underline;
+	font-family: "Juice ITC";
+	margin-top: 10%;
+
+	
+}
+
+h3 {
+	margin-top: 4%;
+	text-align: center;
+	font-family: "Bradley Hand ITC";
+}
+
+p {
+	text-align: center;
+	font-size: 14px;
+	word-spacing: 1.5px;
+	line-height: 20px;
+	white-space: pre-line;
+	height: auto;
+	width: auto;
+	font-family: "Century Gothic";
+	color:#666362;
+	
+	}
+
+div {
+	border-width: 1px;
+	border-style: dashed;
+	border-color: white;
+
+	}
+
+
+
+.center {
+    margin: auto;
+    width: 60%;
+    border:3px solid #8AC007;
+    padding: 10px;
+}
+
+img {
+	width: 128px;
+	height: 128px;
+
+}
+
+div #pictures {
+	width: 100%;
+	margin: 0px auto;
+	border-width: 1px;
+	border-style: dashed;
+	border-color: white;
+	
+}
